@@ -1,4 +1,3 @@
-# Midterm-DA320
+#**Findings and Observation
+######Midterm-DA320
 Movies
-
-**Midterm: MongoDB Notebooks** 
