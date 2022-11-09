@@ -2,9 +2,9 @@
 # DA320 Midterm
 ## Metacritic Movies
 
-**  **Movie Type:** Documentaries and War Films
-    **Charts Used:** (XY) Plot
-    **Years Covered:** 2000-2022
+    Movie Type: Documentaries and War Films
+    Charts Used: (XY) Plot
+    Years Covered: 2000-2022
 
 ## Synopsis
 In this project, I collect data from Metacritic and store it into MongoDB to read and perform an analysis between documentaries and war films. I use an XY Plot to visualize my findings. I will be answering the question: **Are documentaries and war films still in?**
