@@ -1,6 +1,4 @@
 # Findings and Observations
-# DA320 Midterm
-## Metacritic Movies
 
     Movie Type: Documentaries and War Films
     Charts Used: (XY) Plot
