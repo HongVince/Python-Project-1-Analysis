@@ -5,7 +5,7 @@
     Years Covered: 2000-2022
 
 ## Synopsis
-In this project, I collect data from Metacritic and store it into MongoDB to read and perform an analysis between documentaries and war films. I use an XY Plot to visualize my findings. I will be answering the question: **Are documentaries and war films still relevant?**
+In this project, I collect data from IMDB and store it into MongoDB to read and perform an analysis between documentaries and war films. I use an XY Plot to visualize my findings. I will be answering the question: **Are documentaries and war films still relevant?**
 
 ## Analysis: Documentary and War Films Released From 2000 - 2022
 The release of documentaries and war films seem to hit their peaks in the year 2005 and 2011, respectively. Through the years, both types of films have been on a decline. Releases for both documentaries and war films plummet just after their peak year, with the proceeding years being rather bumpy. Although production for both types of films witness somewhat of a resurgence between the years 2013 and 2020, they have been steadily declining. 
